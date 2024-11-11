@@ -1,0 +1,10 @@
+JogoVelha e Tabuleiro - Composição
+- Tabuleiro é usado e criado dentro da classe
+
+JogoVelha e Jogador - Agregação
+- Jogador é utilizado em Jogo da Velha,
+- mas criado fora da classe
+
+Jogador e JogadorHumano - Herança
+Jogador e JogadorComputador - Herança
+- Recebem atributos e métodos de Jogador
